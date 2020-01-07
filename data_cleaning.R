@@ -12,3 +12,4 @@ pruebas <- read_excel('resultados_pruebas_nacionales2016_2018.xlsx')
 # shape files de la cartografía nacional
 
 # Manipulación de objetos ----------------------------------------------------------
+
